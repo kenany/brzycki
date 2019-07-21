@@ -28,7 +28,7 @@
     "almost-equal": "^1.0.0",
     "eslint": "5.16.0",
     "lodash.isfunction": "^3.0.1",
-    "nyc": "^12.0.2",
+    "nyc": "14.1.1",
     "tape": "^4.4.0"
   }
 }
