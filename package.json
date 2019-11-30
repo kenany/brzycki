@@ -26,10 +26,10 @@
   "devDependencies": {
     "@kenan/eslint-config": "6.0.0",
     "@kenan/renovate-config": "1.1.1",
-    "almost-equal": "^1.0.0",
+    "almost-equal": "1.1.0",
     "eslint": "5.16.0",
-    "lodash.isfunction": "^3.0.1",
+    "lodash.isfunction": "3.0.9",
     "nyc": "14.1.1",
-    "tape": "^4.4.0"
+    "tape": "4.11.0"
   }
 }
