@@ -1,7 +1,8 @@
-var brzycki = require('../');
 var test = require('tape');
 var isFunction = require('lodash.isfunction');
 var almostEqual = require('almost-equal');
+
+var brzycki = require('../');
 
 test('exports a function', function(t) {
   t.plan(1);
