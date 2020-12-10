@@ -1,7 +1,5 @@
 # brzycki
 
-[![Build Status][travis-svg]][travis]
-
 [Brzycki's formula][1] for one-repetition maximum.
 
 ## Example
@@ -32,5 +30,3 @@ maximum as a _Number_.
 
 
    [1]: https://en.wikipedia.org/wiki/One-repetition_maximum#Brzycki
-   [travis]: https://travis-ci.org/KenanY/brzycki
-   [travis-svg]: https://img.shields.io/travis/KenanY/brzycki.svg
