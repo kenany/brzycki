@@ -5,7 +5,7 @@
 ## Example
 
 ``` javascript
-var brzycki = require('brzycki');
+const brzycki = require('brzycki');
 
 brzycki(100, 6);
 // => 116
@@ -20,7 +20,7 @@ $ npm install brzycki
 ## API
 
 ``` javascript
-var brzycki = require('brzycki');
+const brzycki = require('brzycki');
 ```
 
 ### `brzycki(weight, reps)`

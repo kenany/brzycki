@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * @param {number} w Weight.
  * @param {number} r Reps.
