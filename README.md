@@ -4,29 +4,28 @@
 
 ## Example
 
-``` javascript
-const brzycki = require('brzycki');
+```javascript
+import { brzycki } from 'brzycki';
 
 brzycki(100, 6);
-// => 116
+// => 116.12903225806451
 ```
 
 ## Installation
 
-``` bash
+```bash
 $ npm install brzycki
 ```
 
 ## API
 
-``` javascript
-const brzycki = require('brzycki');
+```javascript
+import { brzycki } from 'brzycki';
 ```
 
-### `brzycki(weight, reps)`
+### `brzycki(weight: number, reps: number)`
 
-Given _Number_ `weight` and _Number_ `reps`, returns Brzycki's one-repetition
-maximum as a _Number_.
+Given `weight` and `reps`, returns Brzycki's estimated one-repetition maximum as
+a `number`.
 
-
-   [1]: https://en.wikipedia.org/wiki/One-repetition_maximum#Brzycki
+  [1]: https://en.wikipedia.org/wiki/One-repetition_maximum#Brzycki
